@@ -23,9 +23,9 @@ This is a beginner-level Java console program that calculates a student’s aver
 ## Concepts Used
 
 - `Scanner` for input
-- `Arrays` to store grades
+- Arrays to store grades
 - `For loop` for iteration
-- `Arithmetic operations`
+- Arithmetic operations
 - `If-else` / ternary operator for decision making
-- `String` handling
+- String handling
 
