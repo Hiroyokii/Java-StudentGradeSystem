@@ -15,7 +15,7 @@ public class Main {
         double total = 0;
 
         for (int i = 0; i < studSub; i++) {
-            System.out.print("Enter grade for subject " + (i + 1) + ":");
+            System.out.print("Enter grade for subject " + (i + 1) + ": ");
             grades[i] = input.nextDouble();
             total += grades[i];
         }
