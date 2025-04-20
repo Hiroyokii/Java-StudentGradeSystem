@@ -27,5 +27,5 @@ This is a beginner-level Java console program that calculates a student’s aver
 - `For loop` for iteration
 - `Arithmetic operations`
 - `If-else` / ternary operator for decision making
-- String handling
+- `String` handling
 
